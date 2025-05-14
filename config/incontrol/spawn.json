@@ -1,0 +1,7 @@
+[
+  {
+    "mob": ["minecraft:chicken", "minecraft:pig","minecraft:sheep","minecraft:cow","minecraft:squid","minecraft:turtle","minecraft:cod","minecraft:salmon","minecraft:pufferfish","minecraft:tropical_fish","minecraft:wolf","minecraft:fox","minecraft:horse"],
+    "when": "onjoin",
+    "result": "deny"
+  }
+]
